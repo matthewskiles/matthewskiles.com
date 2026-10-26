@@ -5,8 +5,52 @@
     <link>https://matthewskiles.com</link>
     <description>Icon and Visual Designer</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 October 2026 07:10:00 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:34:55 +1300</lastBuildDate>
     <atom:link href="https://matthewskiles.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Paku — Illustration</title>
+      <link>https://matthewskiles.com/illustrations/paku/</link>
+      <description>
+      <![CDATA[<img src="https://matthewskiles.com/images/illustrations/paku@2x.webp" alt="Illustration for Paku." />
+      Illustration for Paku.]]></description>
+      <pubDate>Tue, 27 Oct 2026 07:34:55 +1300</pubDate>
+      <guid isPermaLink="true">https://matthewskiles.com/illustrations/paku/</guid>
+      <category>Illustration</category>
+    </item>
+
+    <item>
+      <title>Billy — Illustration</title>
+      <link>https://matthewskiles.com/illustrations/billy/</link>
+      <description>
+      <![CDATA[<img src="https://matthewskiles.com/images/illustrations/billy@2x.webp" alt="Illustration for Billy." />
+      Illustration for Billy.]]></description>
+      <pubDate>Tue, 27 Oct 2026 07:34:55 +1300</pubDate>
+      <guid isPermaLink="true">https://matthewskiles.com/illustrations/billy/</guid>
+      <category>Illustration</category>
+    </item>
+
+    <item>
+      <title>Liftr — Illustration</title>
+      <link>https://matthewskiles.com/illustrations/liftr/</link>
+      <description>
+      <![CDATA[<img src="https://matthewskiles.com/images/illustrations/liftr@2x.webp" alt="Illustration for Liftr." />
+      Illustration for Liftr.]]></description>
+      <pubDate>Tue, 27 Oct 2026 07:34:55 +1300</pubDate>
+      <guid isPermaLink="true">https://matthewskiles.com/illustrations/liftr/</guid>
+      <category>Illustration</category>
+    </item>
+
+    <item>
+      <title>Sofa — Illustration</title>
+      <link>https://matthewskiles.com/illustrations/sofa/</link>
+      <description>
+      <![CDATA[<img src="https://matthewskiles.com/images/illustrations/sofa@2x.webp" alt="Illustration for Sofa." />
+      Illustration for Sofa.]]></description>
+      <pubDate>Tue, 27 Oct 2026 07:34:55 +1300</pubDate>
+      <guid isPermaLink="true">https://matthewskiles.com/illustrations/sofa/</guid>
+      <category>Illustration</category>
+    </item>
 
     <item>
       <title>Check the Weather — App Icon</title>
